@@ -10,7 +10,7 @@ export function Projects() {
         "A modern web application showcasing advanced frontend development skills with responsive design and interactive user interfaces.",
       link: "https://Lynue.com",
       github: "#",
-      technologies: ["React.js", "TypeScript", "CSS3"],
+      technologies: [ "TypeScript", "CSS", "Axios", "Redux"],
       image: "/images/lynue.png"
     },
     {
@@ -19,7 +19,7 @@ export function Projects() {
         "Brand website featuring creative design elements and smooth user experience with optimized performance.",
       link: "https://creaturhub.eu",
       github: "#",
-      technologies: ["Vue.js", "JavaScript", "Responsive Design"],
+      technologies: ["TypeScript", "CSS", "Axios", "Redux"],
       image: "/images/creaturhub.png"
     },
     {
