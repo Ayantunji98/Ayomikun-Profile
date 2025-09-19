@@ -1,4 +1,3 @@
-import React from 'react'
 import { Header } from './components/header'
 import { Hero } from './components/hero'
 import { About } from './components/about'
@@ -8,7 +7,7 @@ import { Contact } from './components/contact'
 import { Footer } from './components/footer'
 import './index.css'
 
-function App() {
+export default function Home() {
   return (
     <div className="min-h-screen bg-background">
       <Header />
@@ -23,5 +22,3 @@ function App() {
     </div>
   )
 }
-
-export default App
