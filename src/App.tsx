@@ -7,7 +7,7 @@ import { Contact } from './components/contact'
 import { Footer } from './components/footer'
 import './index.css'
 
-export default function Home() {
+function App() {
   return (
     <div className="min-h-screen bg-background">
       <Header />
@@ -22,3 +22,5 @@ export default function Home() {
     </div>
   )
 }
+
+export default App
