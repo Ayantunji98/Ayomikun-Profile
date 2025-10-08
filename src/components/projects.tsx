@@ -17,7 +17,7 @@ export function Projects() {
       title: "Creaturhub",
       description:
         "Brand website featuring creative design elements and smooth user experience with optimized performance.",
-      link: "https://creaturhub.eu",
+      link: "https://Creatrhub.eu",
       github: "#",
       technologies: ["TypeScript", "CSS", "Axios", "Redux"],
       image: "/images/creaturhub.png"
